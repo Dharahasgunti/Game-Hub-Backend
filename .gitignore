@@ -1,0 +1,11 @@
+target/
+.env
+.env.*
+!.env.example
+application-local.properties
+*.log
+startup-error.txt
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
